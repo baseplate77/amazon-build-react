@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/baseplate77/amazon-build-react/static/css/main.d93ef6f4.chunk.css",
-    "main.js": "/baseplate77/amazon-build-react/static/js/main.5a3d494f.chunk.js",
-    "main.js.map": "/baseplate77/amazon-build-react/static/js/main.5a3d494f.chunk.js.map",
-    "runtime-main.js": "/baseplate77/amazon-build-react/static/js/runtime-main.3e061ef6.js",
-    "runtime-main.js.map": "/baseplate77/amazon-build-react/static/js/runtime-main.3e061ef6.js.map",
-    "static/js/2.58dee307.chunk.js": "/baseplate77/amazon-build-react/static/js/2.58dee307.chunk.js",
-    "static/js/2.58dee307.chunk.js.map": "/baseplate77/amazon-build-react/static/js/2.58dee307.chunk.js.map",
-    "index.html": "/baseplate77/amazon-build-react/index.html",
-    "precache-manifest.f185401f91a88763717196ee315580fa.js": "/baseplate77/amazon-build-react/precache-manifest.f185401f91a88763717196ee315580fa.js",
-    "service-worker.js": "/baseplate77/amazon-build-react/service-worker.js",
-    "static/css/main.d93ef6f4.chunk.css.map": "/baseplate77/amazon-build-react/static/css/main.d93ef6f4.chunk.css.map",
-    "static/js/2.58dee307.chunk.js.LICENSE.txt": "/baseplate77/amazon-build-react/static/js/2.58dee307.chunk.js.LICENSE.txt"
+    "main.css": "/amazon-build-react/static/css/main.d93ef6f4.chunk.css",
+    "main.js": "/amazon-build-react/static/js/main.1054a73f.chunk.js",
+    "main.js.map": "/amazon-build-react/static/js/main.1054a73f.chunk.js.map",
+    "runtime-main.js": "/amazon-build-react/static/js/runtime-main.33d361a2.js",
+    "runtime-main.js.map": "/amazon-build-react/static/js/runtime-main.33d361a2.js.map",
+    "static/js/2.86ac4ce0.chunk.js": "/amazon-build-react/static/js/2.86ac4ce0.chunk.js",
+    "static/js/2.86ac4ce0.chunk.js.map": "/amazon-build-react/static/js/2.86ac4ce0.chunk.js.map",
+    "index.html": "/amazon-build-react/index.html",
+    "precache-manifest.b603c2b62a592c9848710394e18cba8b.js": "/amazon-build-react/precache-manifest.b603c2b62a592c9848710394e18cba8b.js",
+    "service-worker.js": "/amazon-build-react/service-worker.js",
+    "static/css/main.d93ef6f4.chunk.css.map": "/amazon-build-react/static/css/main.d93ef6f4.chunk.css.map",
+    "static/js/2.86ac4ce0.chunk.js.LICENSE.txt": "/amazon-build-react/static/js/2.86ac4ce0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e061ef6.js",
-    "static/js/2.58dee307.chunk.js",
+    "static/js/runtime-main.33d361a2.js",
+    "static/js/2.86ac4ce0.chunk.js",
     "static/css/main.d93ef6f4.chunk.css",
-    "static/js/main.5a3d494f.chunk.js"
+    "static/js/main.1054a73f.chunk.js"
   ]
 }

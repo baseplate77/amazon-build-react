@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Fluter todo app
+## Home screen
+<img src="" width="300" height="500" />
+## Task screen
+<img src="" width="300" height="500" />
+
+## dependency
+  provider: ^4.0.5+1
+  sqflite: ^1.3.0+1
+  path: ^1.6.4
+  intl: ^0.16.1
+  
+ ## info
+ This FLutter app consist of simple task adding and removing function but in independent collection format . To achive this it use providor for state managment and sdflite for on devies data storing
 
 ## Available Scripts
 

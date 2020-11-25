@@ -3,7 +3,7 @@ check it <a href="https://baseplate77.github.io/amazon-build-react/">here</a>
 ## Home page
 <img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon_home.jpg" width="90%" height="90%" />
 ## checkout page
-<img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon-checkout.jpg" width="300" height="500" />
+<img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon-checkout.jpg" width="90%" height="90%" />
 
 ## dependency
   provider: ^4.0.5+1

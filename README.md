@@ -1,22 +1,15 @@
 # REACT Amazon build
+It's ecommerse build themed like amazon build with reactjs framwork, stripe paymant intregaration , firebase backend function , Simple login in functionality.
+
 check it <a href="https://baseplate77.github.io/amazon-build-react/">here</a>
+
+
 ## Home page
 <img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon_home.jpg" width="90%" height="90%" />
-## checkout page
+
+## Checkout page
 <img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon-checkout.jpg" width="90%" height="90%" />
 
-## dependency
-  provider: ^4.0.5+1
-  sqflite: ^1.3.0+1
-  path: ^1.6.4
-  intl: ^0.16.1
-  
- ## info
- This FLutter app consist of simple task adding and removing function but in independent collection format . To achive this it use providor for state managment and sdflite for on devies data storing
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 

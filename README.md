@@ -1,9 +1,9 @@
 # REACT Amazon build
 check it <a href="https://baseplate77.github.io/amazon-build-react/">here</a>
-## Home screen
-<img src="" width="300" height="500" />
-## Task screen
-<img src="" width="300" height="500" />
+## Home page
+<img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon_home.jpg" width="300" height="500" />
+## checkout page
+<img src="https://github.com/baseplate77/amazon-build-react/blob/master/images/amazon-checkout.jpg" width="300" height="500" />
 
 ## dependency
   provider: ^4.0.5+1
